@@ -4,16 +4,24 @@ Awesome jq [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fe
 A curated list of awesome things built with the JSON processor and
 _turing-complete functional language_ **jq**.
 
-* [Awesome jq](#awesome-jq)
-  * [Implementations](#implementations)
-  * [Tools](#tools)
-  * [Documentation](#documentation)
-  * [Use Cases](#use-cases)
-  * [Libraries and tools for jq itself](#libraries-and-tools-for-jq-itself)
-  * [External libraries](#external-libraries)
-  * [Podcasts and presentations](#podcasts-and-presentations)
-  * [Contribute](#contribute)
-  * [License](#license)
+- [Awesome jq  ](#awesome-jq--)
+  - [Implementations](#implementations)
+  - [Tools](#tools)
+    - [Command-line](#command-line)
+    - [Web](#web)
+    - [Desktop](#desktop)
+    - [Extensions](#extensions)
+  - [Documentation](#documentation)
+    - [Core documentation](#core-documentation)
+    - [Good small specific tutorials](#good-small-specific-tutorials)
+    - [Code examples](#code-examples)
+    - [Documentation browsers](#documentation-browsers)
+  - [Use Cases](#use-cases)
+  - [Libraries and tools for jq itself](#libraries-and-tools-for-jq-itself)
+  - [External libraries](#external-libraries)
+  - [Podcasts and presentations](#podcasts-and-presentations)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ----
 
@@ -171,6 +179,7 @@ _Using jq from other languages_.
 * [java-jq](https://github.com/arakelian/java-jq) &ndash; A jq wrapper for Java ([jackson-jq](https://github.com/eiiches/jackson-jq) is a Jackson extension).
 * [jqr](https://github.com/ropensci/jqr) &ndash; R interface to jq.
 * [Ansible jq](https://github.com/moreati/jq-filter) &ndash; A jq filter for [Ansible](https://ansible.com) configuration manager.
+* [json-jq](https://github.com/dxma/perl5-json-jq) &ndash; A jq wrapper for Perl.
 
 
 Podcasts and presentations
